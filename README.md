@@ -2,8 +2,8 @@
 <!-- toc -->
 
 - [Members](#members)
-- [Problem Statement](#problem)
-- [Instructions for Execution](#execution)
+- [Problem Statement](#problem-statement)
+- [Instructions for Execution](#instructions-for-execution)
 - [Contributions](#contributions)
 
 <!-- tocstop -->
